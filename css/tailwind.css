@@ -572,10 +572,6 @@ video {
   }
 }
 
-.fixed {
-  position: fixed;
-}
-
 .absolute {
   position: absolute;
 }
@@ -619,14 +615,6 @@ video {
 
 .z-30 {
   z-index: 30;
-}
-
-.z-50 {
-  z-index: 50;
-}
-
-.z-\[\] {
-  z-index: ;
 }
 
 .z-\[999\] {
@@ -740,6 +728,14 @@ video {
 
 .w-\[50\%\] {
   width: 50%;
+}
+
+.w-\[60\%\] {
+  width: 60%;
+}
+
+.w-\[70\%\] {
+  width: 70%;
 }
 
 .w-\[80\%\] {
